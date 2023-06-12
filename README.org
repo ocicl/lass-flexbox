@@ -1,0 +1,10 @@
+* lass-flexbox
+
+Flexbox for Lass
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eudoxia0/lass-flexbox.git   |
+| commit  | f83cc14  |
+| systems | lass-flexbox |
+|---------+-------------------------------------------|
+
